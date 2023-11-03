@@ -26,3 +26,6 @@ replay_pid*
 # Ignore Gradle relevant things
 .gradle/
 build/
+
+# Visual Studio Code files
+.vscode/
